@@ -1,0 +1,13 @@
+C:\Users\mahdi\source\repos\Uplay Bruter\Uplay Bruter\bin\Debug\Uplay Bruter.exe.config
+C:\Users\mahdi\source\repos\Uplay Bruter\Uplay Bruter\bin\Debug\Uplay Bruter.exe
+C:\Users\mahdi\source\repos\Uplay Bruter\Uplay Bruter\bin\Debug\Uplay Bruter.pdb
+C:\Users\mahdi\source\repos\Uplay Bruter\Uplay Bruter\bin\Debug\Leaf.xNet.dll
+C:\Users\mahdi\source\repos\Uplay Bruter\Uplay Bruter\bin\Debug\ThreadGun.dll
+C:\Users\mahdi\source\repos\Uplay Bruter\Uplay Bruter\obj\Debug\Uplay_Bruter.Form1.resources
+C:\Users\mahdi\source\repos\Uplay Bruter\Uplay Bruter\obj\Debug\Uplay_Bruter.Properties.Resources.resources
+C:\Users\mahdi\source\repos\Uplay Bruter\Uplay Bruter\obj\Debug\Uplay Bruter.csproj.GenerateResource.cache
+C:\Users\mahdi\source\repos\Uplay Bruter\Uplay Bruter\obj\Debug\Uplay Bruter.csproj.CoreCompileInputs.cache
+C:\Users\mahdi\source\repos\Uplay Bruter\Uplay Bruter\obj\Debug\Uplay Bruter.csproj.CopyComplete
+C:\Users\mahdi\source\repos\Uplay Bruter\Uplay Bruter\obj\Debug\Uplay Bruter.exe
+C:\Users\mahdi\source\repos\Uplay Bruter\Uplay Bruter\obj\Debug\Uplay Bruter.pdb
+C:\Users\mahdi\source\repos\Uplay Bruter\Uplay Bruter\obj\Debug\Uplay Bruter.csproj.AssemblyReference.cache
